@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <p align="center">
-  <img src="./assets/header-banner.png" alt="Hi there - Paing Paing Soe" width="100%" />
+  <img src="/assets/header-banner.png" alt="Hi there - Paing Paing Soe" width="100%" />
 </p>
 
 <h3 align="center">IT Student | Game Developer | SUPER EEI</h3>
