@@ -1,7 +1,29 @@
-<!-- ============ HEADER BANNER ============ -->
-<p align="center">
-  <img src="/assets/header-banner.png" alt="Hi there - Paing Paing Soe" width="100%" />
-</p>
+
+# 👋
+
+Hi! Paing Paing Soe, I'm a Developer / Visual Creator. Welcome to my GitHub profile!
+
+---
+
+### 🎨 About Me
+- 🔭 I’m currently working on: **3D Modeling / Personal Projects**
+- 🛠️ Tech & Tools: **Python, Java, Git, Blender**
+- 🎯 Goals: **Building cool products & learning new technologies**
+
+---
+
+### 📸 My Featured Works & Projects
+| Project Name | Description | Preview / Link |
+| :--- | :--- | :--- |
+| **Project 1** | Short description of project | [View Project](https://link-here.com) |
+| **Project 2** | Short description of project | [View Project](https://link-here.com) |
+
+---
+
+### 📫 Connect with Me
+- **Instagram:** [@your_username](https://instagram.com)
+- **LinkedIn:** [Your Name](https://linkedin.com)
+
 
 <h3 align="center">IT Student | Game Developer | SUPER EEI</h3>
 
