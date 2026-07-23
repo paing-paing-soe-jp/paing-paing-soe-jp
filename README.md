@@ -1,41 +1,31 @@
+# Hi! Welcome to my GitHub profile! 👋
 
-# 👋
-
-Hi! Paing Paing Soe, I'm a Developer / Visual Creator. Welcome to my GitHub profile!
-
----
-
-### 🎨 About Me
-- 🔭 I’m currently working on: **3D Modeling / Personal Projects**
-- 🛠️ Tech & Tools: **Python, Java, Git, Blender**
-- 🎯 Goals: **Building cool products & learning new technologies**
+I'm an aspiring **Full-Stack Developer** with a strong passion for **3D Creation & Hardware Integration**.
 
 ---
 
-### 📸 My Featured Works & Projects
-| Project Name | Description | Preview / Link |
-| :--- | :--- | :--- |
-| **Project 1** | Short description of project | [View Project](https://link-here.com) |
-| **Project 2** | Short description of project | [View Project](https://link-here.com) |
+### 🚀 About Me
+- 💻 **Goal:** Building modern, full-stack web applications with interactive 3D experiences.
+- 🛠️ **Tech & Languages:** HTML/CSS, JavaScript, Python, Java SE, Git
+- 🎨 **3D & Design:** 3D Modeling, UV Resins & Curing, Bambu Studio
+- 🎯 **Current Focus:** Full-Stack Fundamentals, WebGL / 3D on the Web & Personal Projects
 
 ---
 
-### 📫 Connect with Me
-- **Instagram:** [@your_username](https://instagram.com)
-- **LinkedIn:** [Your Name](https://linkedin.com)
+### 🎨 Featured Projects
 
+---
 
 <h3 align="center">IT Student | Game Developer | SUPER EEI</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 <br/>
 
-> ### *"We build. We ship. We play."*
-> <p align="right"><i>- Paing Paing Soe</i></p>
+"We build. We ship. We play."
+- Paing Paing Soe
 <!-- ======================================= -->
