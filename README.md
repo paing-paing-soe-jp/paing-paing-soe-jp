@@ -1,4 +1,4 @@
-# Hi! Welcome to my GitHub profile! 👋
+# Hi ! Welcome 👋
 
 I'm an aspiring **Full-Stack Developer** with a strong passion for **3D Creation & Hardware Integration**.
 
