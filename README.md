@@ -2,9 +2,7 @@
 
 I'm an aspiring **Full-Stack Developer** with a strong passion for **3D Creation & Hardware Integration**.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tpwin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
