@@ -21,7 +21,7 @@ I'm an aspiring **Full-Stack Developer** with a strong passion for **3D Creation
 <p align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="YOUR_FACEBOOK_PROFILE_LINK">
+<a href="https://www.facebook.com/share/1EUPrWZCsL/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
