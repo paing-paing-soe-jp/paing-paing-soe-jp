@@ -12,9 +12,6 @@ I'm an aspiring **Full-Stack Developer** with a strong passion for **3D Creation
 - 🎨 **3D & Design:** 3D Modeling, UV Resins & Curing, Bambu Studio
 - 🎯 **Current Focus:** Full-Stack Fundamentals, WebGL / 3D on the Web & Personal Projects
 
----
-
-### 🎨 Featured Projects
 
 ---
 
